@@ -1,0 +1,24 @@
+{
+  "name": "basic-across-app-sdk-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sdk.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@across-protocol/app-sdk": "^0.3.0",
+    "@across-protocol/sdk": "^4.3.48",
+    "dotenv": "^17.2.1",
+    "ethers": "^6.15.0",
+    "viem": "^2.34.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.3.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  }
+}
